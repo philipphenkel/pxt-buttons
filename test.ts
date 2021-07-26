@@ -1,2 +1,2 @@
-input.disableButtons();
-input.enableButtons();
+buttons.disable();
+buttons.enable();

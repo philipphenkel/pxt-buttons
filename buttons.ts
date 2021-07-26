@@ -1,15 +1,15 @@
-namespace input {
+namespace buttons {
 
     /**
-    * Enable the microbit buttons. 
+    * Enable the micro:bit buttons. 
     */
-    //% shim=input::enableButtons
-    export function enableButtons(): void { }
+    //% shim=buttons::enable
+    export function enable(): void { }
 
     /**
-    * Disable the microbit buttons. 
+    * Disable the micro:bit buttons. 
     */
-    //% shim=input::disableButtons
-    export function disableButtons(): void { }
+    //% shim=buttons::disable
+    export function disable(): void { }
 
 }
