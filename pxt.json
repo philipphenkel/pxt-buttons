@@ -1,0 +1,18 @@
+{
+    "name": "buttons",
+    "version": "0.0.1",
+    "description": "Disable and enable micro:bit buttons",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "buttons.ts",
+        "buttons.cpp"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

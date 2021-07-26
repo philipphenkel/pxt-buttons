@@ -1,0 +1,2 @@
+input.disableButtons();
+input.enableButtons();
